@@ -1,0 +1,12 @@
+{
+   "first_name": "Sergey",
+   "last_name": "Khopyorsky",
+   "age": 30,
+   "password": "qwerty123",
+   "created_at": {
+      "year": 2024,
+      "month": 7,
+      "day": 8
+   },
+   "updated_at": null
+}
